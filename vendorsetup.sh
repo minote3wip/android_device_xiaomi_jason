@@ -1,1 +1,1 @@
-add_lunch_combo nitrogen_jason-userdebug
+add_lunch_combo aokp_jason-userdebug
