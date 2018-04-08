@@ -124,6 +124,7 @@ USE_DEVICE_SPECIFIC_CAMERA := true
 
 # Charger
 BOARD_CHARGER_ENABLE_SUSPEND := true
+BACKLIGHT_PATH := "/sys/class/leds/button-backlight/brightness"
 
 # CM Hardware
 BOARD_HARDWARE_CLASS += \
